@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Himanshu\'s App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Greeting">Welcome to My Scheduler</string>
+    <string name="message_label">Enter message</string>
+    <string name="phone_label">Enter Phone Number</string>
+</resources>
